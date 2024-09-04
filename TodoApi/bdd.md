@@ -27,6 +27,7 @@ Det er en teststrategi som ønsker å forminske gapet mellom teknisk og ikke-tek
 ## Ok.. hvordan?
 * Cucumber:
   * System som er laget for å støtte BDD
+  * https://cucumber.io/
   * https://cucumber.io/docs/cucumber/
   * Bruker et språk som heter Gherkin
 * Reqnroll / Specflow
